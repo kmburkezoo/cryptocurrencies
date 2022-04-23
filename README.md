@@ -1,7 +1,7 @@
 # cryptocurrencies
 
 ## Purpose
-The purpose of this project is to use unsupervised machine learning to analyze, group, and visualize various cryptocurrencies.
+The purpose of this project is to use unsupervised machine learning techniques from SciKit Learn to analyze and cluster visualize various cryptocurrencies. Once grouped, the resulting clusters are visualized using Plotly and HVPlot.
 
 ## Process
 
@@ -22,7 +22,7 @@ The purpose of this project is to use unsupervised machine learning to analyze, 
 ## Resources
 * Languages: Python, in Jupyter Notebook
 * Libraries
-    ** Pandas
-    ** HVPlot
-    ** Plotly
-    ** SciKit Learn
+    * Pandas
+    * HVPlot
+    * Plotly
+    * SciKit Learn
